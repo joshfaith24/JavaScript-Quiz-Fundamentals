@@ -1,14 +1,14 @@
 // list of all questions, choices, and answers
 var questions = [
   {
-    title: 'Commonly used data types DO NOT include:',
-    choices: ['strings', 'booleans', 'alerts', 'numbers'],
-    answer: 'alerts',
+    title: 'Which function is used to serialize an object into a JSON string in Javascript?',
+    choices: ['stringify()', 'parse()', 'convert()', 'none of the above'],
+    answer: 'stringify()',
   },
   {
-    title: 'The condition in an if / else statement is enclosed within ____.',
-    choices: ['quotes', 'curly brackets', 'parentheses', 'square brackets'],
-    answer: 'parentheses',
+    title: 'Which of the following are closures in Javascript?',
+    choices: ['variables', 'functions', 'objects', 'all of the above'],
+    answer: 'above',
   },
   {
     title: 'Arrays in JavaScript can be used to store ____.',
