@@ -27,3 +27,4 @@ in on JavaScript skills.
 
 ## Resource Links
 https://joshfaith24.github.io/JavaScript-Quiz-Fundamentals/
+https://github.com/joshfaith24/JavaScript-Quiz-Fundamentals
