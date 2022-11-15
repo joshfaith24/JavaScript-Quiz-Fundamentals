@@ -26,3 +26,4 @@ how you stack up against them. It's a great friendly and competitive quiz, also 
 in on JavaScript skills.
 
 ## Resource Links
+https://joshfaith24.github.io/JavaScript-Quiz-Fundamentals/
