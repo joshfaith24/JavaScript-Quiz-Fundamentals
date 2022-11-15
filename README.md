@@ -28,3 +28,4 @@ in on JavaScript skills.
 ## Resource Links
 https://joshfaith24.github.io/JavaScript-Quiz-Fundamentals/
 https://github.com/joshfaith24/JavaScript-Quiz-Fundamentals
+![Image 11-14-22 at 7 05 PM](https://user-images.githubusercontent.com/113576524/201793813-15dda063-a889-49d3-86c7-162dc439bfd6.jpg)
